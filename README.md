@@ -73,7 +73,7 @@ blinkit-sales-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/blinkit-sales-analysis.git
+git clone https://github.com/GuruVishwakarma/blinkit-eda-analysis
 cd blinkit-sales-analysis
 ```
 
@@ -91,17 +91,11 @@ jupyter notebook blinkit_analysis.ipynb
 
 ## 📬 Connect With Me
 
-I'm **Guruprasad**, an aspiring Data Analyst/Data Scientist pursuing MCA.  
+I'm **Guruprasad Vishwakarma**, an aspiring Data Analyst/Data Scientist pursuing MCA.  
 This project reflects my passion for data exploration and storytelling.
 
-- 🔗 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
-- 💻 GitHub: [github.com/your-username](https://github.com/your-username)
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
+- 🔗 LinkedIn: [linkedin.com](https://www.linkedin.com/in/guruprasad-vishwakarma-471884321/)  
+- 💻 GitHub: [github.com](https://github.com/GuruVishwakarma/blinkit-eda-analysis)
 
 ---
 
